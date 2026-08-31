@@ -1,0 +1,5 @@
+{
+  "cooldown_seconds": 300,
+  "scope": "per_user_per_feature",
+  "duplicate_file_block": false
+}

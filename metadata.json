@@ -1,0 +1,432 @@
+[
+  {
+    "ID": 1,
+    "Name": "ModeTemplateID",
+    "Type": "int"
+  },
+  {
+    "ID": 3,
+    "Name": "HumanCanRevive",
+    "Type": "boolean"
+  },
+  {
+    "ID": 4,
+    "Name": "BotCanRevive",
+    "Type": "boolean"
+  },
+  {
+    "ID": 5,
+    "Name": "ReviveCDTime",
+    "Type": "int"
+  },
+  {
+    "ID": 6,
+    "Name": "TeamNum",
+    "Type": "int"
+  },
+  {
+    "ID": 7,
+    "Name": "TeamMemberNum",
+    "Type": "int"
+  },
+  {
+    "ID": 8,
+    "Name": "RoundCount",
+    "Type": "int"
+  },
+  {
+    "ID": 9,
+    "Name": "RoundTime",
+    "Type": "int"
+  },
+  {
+    "ID": 10,
+    "Name": "ResetEquipment",
+    "Type": "boolean"
+  },
+  {
+    "ID": 11,
+    "Name": "SafeZoneEnabled",
+    "Type": "boolean"
+  },
+  {
+    "ID": 12,
+    "Name": "SafeZoneSize",
+    "Type": "float"
+  },
+  {
+    "ID": 13,
+    "Name": "SafeZoneStartTime",
+    "Type": "float"
+  },
+  {
+    "ID": 14,
+    "Name": "SafeZoneDamage",
+    "Type": "float"
+  },
+  {
+    "ID": 15,
+    "Name": "MaxHP",
+    "Type": "int"
+  },
+  {
+    "ID": 16,
+    "Name": "MaxEP",
+    "Type": "int"
+  },
+  {
+    "ID": 17,
+    "Name": "StartEP",
+    "Type": "int"
+  },
+  {
+    "ID": 18,
+    "Name": "AutoHealing",
+    "Type": "boolean"
+  },
+  {
+    "ID": 19,
+    "Name": "Damage",
+    "Type": "int"
+  },
+  {
+    "ID": 20,
+    "Name": "Damaged",
+    "Type": "int"
+  },
+  {
+    "ID": 21,
+    "Name": "MoveSpeed",
+    "Type": "float"
+  },
+  {
+    "ID": 22,
+    "Name": "JumpHeight",
+    "Type": "float"
+  },
+  {
+    "ID": 23,
+    "Name": "LimitedAmmo",
+    "Type": "boolean"
+  },
+  {
+    "ID": 24,
+    "Name": "TargetScore",
+    "Type": "int"
+  },
+  {
+    "ID": 25,
+    "Name": "KillingScore",
+    "Type": "int"
+  },
+  {
+    "ID": 26,
+    "Name": "ReviveRule",
+    "Type": "int"
+  },
+  {
+    "ID": 27,
+    "Name": "MultiRoundsEnabled",
+    "Type": "boolean"
+  },
+  {
+    "ID": 28,
+    "Name": "SafeZoneShrinkTime",
+    "Type": "float"
+  },
+  {
+    "ID": 29,
+    "Name": "RoundPreparingTime",
+    "Type": "int"
+  },
+  {
+    "ID": 30,
+    "Name": "EnableActiveSkill",
+    "Type": "boolean"
+  },
+  {
+    "ID": 31,
+    "Name": "EnablePassiveSkill",
+    "Type": "boolean"
+  },
+  {
+    "ID": 75,
+    "Name": "EcoRoundMoney",
+    "Type": "int"
+  },
+  {
+    "ID": 76,
+    "Name": "EcoKillMoney",
+    "Type": "int"
+  },
+  {
+    "ID": 77,
+    "Name": "EcoWinMoney",
+    "Type": "int"
+  },
+  {
+    "ID": 78,
+    "Name": "CoinHudShow",
+    "Type": "boolean"
+  },
+  {
+    "ID": 79,
+    "Name": "ReviveSwitch",
+    "Type": "boolean"
+  },
+  {
+    "ID": 82,
+    "Name": "MinNumOfMatchStart",
+    "Type": "int"
+  },
+  {
+    "ID": 88,
+    "Name": "PetEnable",
+    "Type": "boolean"
+  },
+  {
+    "ID": 89,
+    "Name": "PetSkillEnable",
+    "Type": "boolean"
+  },
+  {
+    "ID": 99,
+    "Name": "CameraType",
+    "Type": "int"
+  },
+  {
+    "ID": 100,
+    "Name": "CameraFov",
+    "Type": "int"
+  },
+  {
+    "ID": 101,
+    "Name": "CameraPitch",
+    "Type": "float"
+  },
+  {
+    "ID": 102,
+    "Name": "CameraYaw",
+    "Type": "float"
+  },
+  {
+    "ID": 103,
+    "Name": "CameraDistance",
+    "Type": "float"
+  },
+  {
+    "ID": 104,
+    "Name": "CameraOffset",
+    "Type": "int"
+  },
+  {
+    "ID": 129,
+    "Name": "ObserverMode",
+    "Type": "int"
+  },
+  {
+    "ID": 130,
+    "Name": "ObserverModeEnable",
+    "Type": "boolean"
+  },
+  {
+    "ID": 132,
+    "Name": "CameraProjectionMode",
+    "Type": "int"
+  },
+  {
+    "ID": 133,
+    "Name": "CameraBlockMode",
+    "Type": "int"
+  },
+  {
+    "ID": 134,
+    "Name": "MorphModeDisableTemplate",
+    "Type": "boolean"
+  },
+  {
+    "ID": 135,
+    "Name": "RecommendStartGameNumber",
+    "Type": "int"
+  },
+  {
+    "ID": 136,
+    "Name": "EnableHalfwayJoin",
+    "Type": "boolean"
+  },
+  {
+    "ID": 137,
+    "Name": "HalfwayJoinEffectTime",
+    "Type": "int"
+  },
+  {
+    "ID": 138,
+    "Name": "HalfwayJoinNumberLimit",
+    "Type": "boolean"
+  },
+  {
+    "ID": 139,
+    "Name": "HalfwayJoinNumber",
+    "Type": "int"
+  },
+  {
+    "ID": 140,
+    "Name": "EnableHalfwayJoinEffectTime",
+    "Type": "boolean"
+  },
+  {
+    "ID": 141,
+    "Name": "EnableWeaponSkinProperty",
+    "Type": "boolean"
+  },
+  {
+    "ID": 142,
+    "Name": "EnableWeaponSkillProperty",
+    "Type": "boolean"
+  },
+  {
+    "ID": 143,
+    "Name": "EnableDeathObserve",
+    "Type": "boolean"
+  },
+  {
+    "ID": 144,
+    "Name": "UnlimitedBullet",
+    "Type": "boolean"
+  },
+  {
+    "ID": 145,
+    "Name": "UnlimitedGloowall",
+    "Type": "boolean"
+  },
+  {
+    "ID": 146,
+    "Name": "UnlimitedThrowables",
+    "Type": "boolean"
+  },
+  {
+    "ID": 147,
+    "Name": "TwoDimensionCamEnableZAxis",
+    "Type": "boolean"
+  },
+  {
+    "ID": 148,
+    "Name": "EnableFreeQuit",
+    "Type": "boolean"
+  },
+  {
+    "ID": 149,
+    "Name": "AllowHangUpTime",
+    "Type": "int"
+  },
+  {
+    "ID": 150,
+    "Name": "DisableReconnect",
+    "Type": "boolean"
+  },
+  {
+    "ID": 151,
+    "Name": "EnableTotalToken",
+    "Type": "boolean"
+  },
+  {
+    "ID": 152,
+    "Name": "EnableUGCToken",
+    "Type": "boolean"
+  },
+  {
+    "ID": 153,
+    "Name": "EnableMiniMapV2",
+    "Type": "boolean"
+  },
+  {
+    "ID": 154,
+    "Name": "DisableDepthMap",
+    "Type": "boolean"
+  },
+  {
+    "ID": 155,
+    "Name": "EnableRuntimeDynamicNavMesh",
+    "Type": "boolean"
+  },
+  {
+    "ID": 156,
+    "Name": "EnableEnergySavingMode",
+    "Type": "boolean"
+  },
+  {
+    "ID": 170,
+    "Name": "EnableInventoryDrop",
+    "Type": "boolean"
+  },
+  {
+    "ID": 171,
+    "Name": "UGCObserverCameraMode",
+    "Type": "int"
+  },
+  {
+    "ID": 172,
+    "Name": "HideObserverDropButton",
+    "Type": "boolean"
+  },
+  {
+    "ID": 174,
+    "Name": "IsDownFPPResource",
+    "Type": "boolean"
+  },
+  {
+    "ID": 175,
+    "Name": "EnableQuickStartMatch",
+    "Type": "boolean"
+  },
+  {
+    "ID": 176,
+    "Name": "EnablePveWeaponSkinProperty",
+    "Type": "boolean"
+  },
+  {
+    "ID": 177,
+    "Name": "UGCIsShowSocialChooseBox",
+    "Type": "boolean"
+  },
+  {
+    "ID": 178,
+    "Name": "EnableInternalWorkflowLogic",
+    "Type": "boolean"
+  },
+  {
+    "ID": 179,
+    "Name": "EnableAOIFilter",
+    "Type": "boolean"
+  },
+  {
+    "ID": 180,
+    "Name": "CameraViewingAngleRestrictionType",
+    "Type": "int"
+  },
+  {
+    "ID": 181,
+    "Name": "IsHoudiniUsed",
+    "Type": "boolean"
+  },
+  {
+    "ID": 185,
+    "Name": "DisableEnemyFootstepVibrate",
+    "Type": "boolean"
+  },
+  {
+    "ID": 187,
+    "Name": "IsAIGenUsed",
+    "Type": "boolean"
+  },
+  {
+    "ID": 188,
+    "Name": "GameStartTimeS",
+    "Type": "int"
+  },
+  {
+    "ID": 189,
+    "Name": "GamePrepareTimeS",
+    "Type": "int"
+  }
+]

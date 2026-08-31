@@ -1,0 +1,8 @@
+python-telegram-bot>=22.7,<23
+protobuf>=3.20,<7
+requests
+pycryptodome
+cryptography
+urllib3
+
+blackboxprotobuf

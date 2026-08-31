@@ -1,0 +1,1 @@
+V27: fixed admin points to use stars_core persistent user data; removed duplicate broken state handlers; success notification is sent only after saved points / successful star operation, not on button press.

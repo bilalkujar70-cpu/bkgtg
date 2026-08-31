@@ -1,0 +1,6 @@
+V24 - Admin Add Points
+- Admin button to add points by user ID.
+- Admin enters target ID then points amount.
+- User balance is saved.
+- User receives a confirmation notification with added amount and new balance.
+- Admin receives operation result.

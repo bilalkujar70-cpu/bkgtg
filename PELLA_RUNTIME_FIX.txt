@@ -1,0 +1,10 @@
+PELLA RUNTIME FIX
+
+- Long subscription jobs are isolated from the Telegram polling loop.
+- Worker exceptions, including BaseException from a worker, cannot stop polling.
+- Final operation status is sent BEFORE account-file cleanup.
+- Account cleanup runs in a separate background task so slow JSON writes cannot block the bot.
+- Cleanup/notification operations have exception protection and timeouts.
+- Global Telegram error handler is registered correctly before polling starts.
+- The bot is NOT intentionally stopped after a successful subscription operation.
+- Normal emojis remain in message text; button emoji behavior is unchanged.
